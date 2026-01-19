@@ -9,7 +9,7 @@ Originalmente, o projeto foi planejado como um Web Scraper, mas evoluiu para o c
 - **Consumo de API:** Utiliza requisições HTTP para buscar dados estruturados em JSON.
 - **Tratamento de Erros:** Lógica de exceções para garantir que o script informe falhas de conexão de forma clara.
 - **Formatação:** Exibição dos valores tratados com duas casas decimais.
--**Interatividade:** Menu de busca dinâmico que permite ao usuário consultar qualquer par de moedas disponível na API em tempo real.
+- **Interatividade:** Menu de busca dinâmico que permite ao usuário consultar qualquer par de moedas disponível na API em tempo real.
 
 
 ## Tecnologias Utilizadas
